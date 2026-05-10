@@ -1,4 +1,6 @@
 <?php
+uni_set('display_errors'. '0');
+error_reporting(-1);
 
 var_dump($dummy);
 
